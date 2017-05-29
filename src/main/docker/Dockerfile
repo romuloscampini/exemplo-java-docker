@@ -1,6 +1,5 @@
 FROM romuloscampini/jdk-oracle:8
 
-#Cria o volume padrão para aplicação
 VOLUME /opt/deploy/app-java
 
 #Adiciona a aplicação
